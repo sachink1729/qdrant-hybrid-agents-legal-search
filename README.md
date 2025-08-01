@@ -1,4 +1,4 @@
-# Qdrant Hybrid Agents for Legal Search
+# Qdrant Hybrid Search Using Legal Agents
 
 ### Start the Qdrant Server Container
 
